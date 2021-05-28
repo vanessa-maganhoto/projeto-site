@@ -24,13 +24,17 @@ h2{
     color: rgb(58, 0, 112);
 }
 
+img.lado {
+    float: right;
+}
+
 a{
     text-decoration: none;
     font-weight: bold;
     color:rgb(58, 0, 112);
 }
 
-a: houver {
+a: hover {
     text-decoration: underline;
     color: rgb (26, 26, 255);
 }
